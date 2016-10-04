@@ -1,0 +1,16 @@
+{
+  "name": "HbaseNodeJs",
+  "version": "0.0.0",
+  "description": "Hbase NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakawijaya",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "~1.15.2",
+    "hbase-rpc-client": "~0.1.10"
+  }
+}
